@@ -1,0 +1,2502 @@
+[
+ {
+   "ProblemTypeID": "건축계획",
+   "UserID": "U00000001",
+   "WeakOrNot": 1
+ },
+ {
+   "ProblemTypeID": "건축계획",
+   "UserID": "U00000002",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건축계획",
+   "UserID": "U00000003",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건축계획",
+   "UserID": "U00000004",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건축계획",
+   "UserID": "U00000005",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건축계획",
+   "UserID": "U00000006",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건축계획",
+   "UserID": "U00000007",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건축계획",
+   "UserID": "U00000008",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건축계획",
+   "UserID": "U00000009",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건축계획",
+   "UserID": "U00000010",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건축계획",
+   "UserID": "U00000011",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건축계획",
+   "UserID": "U00000012",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건축계획",
+   "UserID": "U00000013",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건축계획",
+   "UserID": "U00000014",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건축계획",
+   "UserID": "U00000015",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건축계획",
+   "UserID": "U00000016",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건축계획",
+   "UserID": "U00000017",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건축계획",
+   "UserID": "U00000018",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건축계획",
+   "UserID": "U00000019",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건축계획",
+   "UserID": "U00000020",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건축시공",
+   "UserID": "U00000001",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건축시공",
+   "UserID": "U00000002",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건축시공",
+   "UserID": "U00000003",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건축시공",
+   "UserID": "U00000004",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건축시공",
+   "UserID": "U00000005",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건축시공",
+   "UserID": "U00000006",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건축시공",
+   "UserID": "U00000007",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건축시공",
+   "UserID": "U00000008",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건축시공",
+   "UserID": "U00000009",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건축시공",
+   "UserID": "U00000010",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건축시공",
+   "UserID": "U00000011",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건축시공",
+   "UserID": "U00000012",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건축시공",
+   "UserID": "U00000013",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건축시공",
+   "UserID": "U00000014",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건축시공",
+   "UserID": "U00000015",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건축시공",
+   "UserID": "U00000016",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건축시공",
+   "UserID": "U00000017",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건축시공",
+   "UserID": "U00000018",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건축시공",
+   "UserID": "U00000019",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건축시공",
+   "UserID": "U00000020",
+   "WeakOrNot": 1
+ },
+ {
+   "ProblemTypeID": "건축설비",
+   "UserID": "U00000001",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건축설비",
+   "UserID": "U00000002",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건축설비",
+   "UserID": "U00000003",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건축설비",
+   "UserID": "U00000004",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건축설비",
+   "UserID": "U00000005",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건축설비",
+   "UserID": "U00000006",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건축설비",
+   "UserID": "U00000007",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건축설비",
+   "UserID": "U00000008",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건축설비",
+   "UserID": "U00000009",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건축설비",
+   "UserID": "U00000010",
+   "WeakOrNot": 1
+ },
+ {
+   "ProblemTypeID": "건축설비",
+   "UserID": "U00000011",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건축설비",
+   "UserID": "U00000012",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건축설비",
+   "UserID": "U00000013",
+   "WeakOrNot": 1
+ },
+ {
+   "ProblemTypeID": "건축설비",
+   "UserID": "U00000014",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건축설비",
+   "UserID": "U00000015",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건축설비",
+   "UserID": "U00000016",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건축설비",
+   "UserID": "U00000017",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건축설비",
+   "UserID": "U00000018",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건축설비",
+   "UserID": "U00000019",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건축설비",
+   "UserID": "U00000020",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건축법규",
+   "UserID": "U00000001",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건축법규",
+   "UserID": "U00000002",
+   "WeakOrNot": 1
+ },
+ {
+   "ProblemTypeID": "건축법규",
+   "UserID": "U00000003",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건축법규",
+   "UserID": "U00000004",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건축법규",
+   "UserID": "U00000005",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건축법규",
+   "UserID": "U00000006",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건축법규",
+   "UserID": "U00000007",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건축법규",
+   "UserID": "U00000008",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건축법규",
+   "UserID": "U00000009",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건축법규",
+   "UserID": "U00000010",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건축법규",
+   "UserID": "U00000011",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건축법규",
+   "UserID": "U00000012",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건축법규",
+   "UserID": "U00000013",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건축법규",
+   "UserID": "U00000014",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건축법규",
+   "UserID": "U00000015",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건축법규",
+   "UserID": "U00000016",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건축법규",
+   "UserID": "U00000017",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건축법규",
+   "UserID": "U00000018",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건축법규",
+   "UserID": "U00000019",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건축법규",
+   "UserID": "U00000020",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건축구조",
+   "UserID": "U00000001",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건축구조",
+   "UserID": "U00000002",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건축구조",
+   "UserID": "U00000003",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건축구조",
+   "UserID": "U00000004",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건축구조",
+   "UserID": "U00000005",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건축구조",
+   "UserID": "U00000006",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건축구조",
+   "UserID": "U00000007",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건축구조",
+   "UserID": "U00000008",
+   "WeakOrNot": 1
+ },
+ {
+   "ProblemTypeID": "건축구조",
+   "UserID": "U00000009",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건축구조",
+   "UserID": "U00000010",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건축구조",
+   "UserID": "U00000011",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건축구조",
+   "UserID": "U00000012",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건축구조",
+   "UserID": "U00000013",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건축구조",
+   "UserID": "U00000014",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건축구조",
+   "UserID": "U00000015",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건축구조",
+   "UserID": "U00000016",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건축구조",
+   "UserID": "U00000017",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건축구조",
+   "UserID": "U00000018",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건축구조",
+   "UserID": "U00000019",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건축구조",
+   "UserID": "U00000020",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "대기오염 개론",
+   "UserID": "U00000001",
+   "WeakOrNot": 1
+ },
+ {
+   "ProblemTypeID": "대기오염 개론",
+   "UserID": "U00000002",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "대기오염 개론",
+   "UserID": "U00000003",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "대기오염 개론",
+   "UserID": "U00000004",
+   "WeakOrNot": 1
+ },
+ {
+   "ProblemTypeID": "대기오염 개론",
+   "UserID": "U00000005",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "대기오염 개론",
+   "UserID": "U00000006",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "대기오염 개론",
+   "UserID": "U00000007",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "대기오염 개론",
+   "UserID": "U00000008",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "대기오염 개론",
+   "UserID": "U00000009",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "대기오염 개론",
+   "UserID": "U00000010",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "대기오염 개론",
+   "UserID": "U00000011",
+   "WeakOrNot": 1
+ },
+ {
+   "ProblemTypeID": "대기오염 개론",
+   "UserID": "U00000012",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "대기오염 개론",
+   "UserID": "U00000013",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "대기오염 개론",
+   "UserID": "U00000014",
+   "WeakOrNot": 1
+ },
+ {
+   "ProblemTypeID": "대기오염 개론",
+   "UserID": "U00000015",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "대기오염 개론",
+   "UserID": "U00000016",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "대기오염 개론",
+   "UserID": "U00000017",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "대기오염 개론",
+   "UserID": "U00000018",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "대기오염 개론",
+   "UserID": "U00000019",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "대기오염 개론",
+   "UserID": "U00000020",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "연소공학",
+   "UserID": "U00000001",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "연소공학",
+   "UserID": "U00000002",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "연소공학",
+   "UserID": "U00000003",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "연소공학",
+   "UserID": "U00000004",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "연소공학",
+   "UserID": "U00000005",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "연소공학",
+   "UserID": "U00000006",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "연소공학",
+   "UserID": "U00000007",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "연소공학",
+   "UserID": "U00000008",
+   "WeakOrNot": 1
+ },
+ {
+   "ProblemTypeID": "연소공학",
+   "UserID": "U00000009",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "연소공학",
+   "UserID": "U00000010",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "연소공학",
+   "UserID": "U00000011",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "연소공학",
+   "UserID": "U00000012",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "연소공학",
+   "UserID": "U00000013",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "연소공학",
+   "UserID": "U00000014",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "연소공학",
+   "UserID": "U00000015",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "연소공학",
+   "UserID": "U00000016",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "연소공학",
+   "UserID": "U00000017",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "연소공학",
+   "UserID": "U00000018",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "연소공학",
+   "UserID": "U00000019",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "연소공학",
+   "UserID": "U00000020",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "대기오염 방지기술",
+   "UserID": "U00000001",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "대기오염 방지기술",
+   "UserID": "U00000002",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "대기오염 방지기술",
+   "UserID": "U00000003",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "대기오염 방지기술",
+   "UserID": "U00000004",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "대기오염 방지기술",
+   "UserID": "U00000005",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "대기오염 방지기술",
+   "UserID": "U00000006",
+   "WeakOrNot": 1
+ },
+ {
+   "ProblemTypeID": "대기오염 방지기술",
+   "UserID": "U00000007",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "대기오염 방지기술",
+   "UserID": "U00000008",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "대기오염 방지기술",
+   "UserID": "U00000009",
+   "WeakOrNot": 1
+ },
+ {
+   "ProblemTypeID": "대기오염 방지기술",
+   "UserID": "U00000010",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "대기오염 방지기술",
+   "UserID": "U00000011",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "대기오염 방지기술",
+   "UserID": "U00000012",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "대기오염 방지기술",
+   "UserID": "U00000013",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "대기오염 방지기술",
+   "UserID": "U00000014",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "대기오염 방지기술",
+   "UserID": "U00000015",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "대기오염 방지기술",
+   "UserID": "U00000016",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "대기오염 방지기술",
+   "UserID": "U00000017",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "대기오염 방지기술",
+   "UserID": "U00000018",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "대기오염 방지기술",
+   "UserID": "U00000019",
+   "WeakOrNot": 1
+ },
+ {
+   "ProblemTypeID": "대기오염 방지기술",
+   "UserID": "U00000020",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "대기오염 공정시험기준(방법)",
+   "UserID": "U00000001",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "대기오염 공정시험기준(방법)",
+   "UserID": "U00000002",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "대기오염 공정시험기준(방법)",
+   "UserID": "U00000003",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "대기오염 공정시험기준(방법)",
+   "UserID": "U00000004",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "대기오염 공정시험기준(방법)",
+   "UserID": "U00000005",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "대기오염 공정시험기준(방법)",
+   "UserID": "U00000006",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "대기오염 공정시험기준(방법)",
+   "UserID": "U00000007",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "대기오염 공정시험기준(방법)",
+   "UserID": "U00000008",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "대기오염 공정시험기준(방법)",
+   "UserID": "U00000009",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "대기오염 공정시험기준(방법)",
+   "UserID": "U00000010",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "대기오염 공정시험기준(방법)",
+   "UserID": "U00000011",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "대기오염 공정시험기준(방법)",
+   "UserID": "U00000012",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "대기오염 공정시험기준(방법)",
+   "UserID": "U00000013",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "대기오염 공정시험기준(방법)",
+   "UserID": "U00000014",
+   "WeakOrNot": 1
+ },
+ {
+   "ProblemTypeID": "대기오염 공정시험기준(방법)",
+   "UserID": "U00000015",
+   "WeakOrNot": 1
+ },
+ {
+   "ProblemTypeID": "대기오염 공정시험기준(방법)",
+   "UserID": "U00000016",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "대기오염 공정시험기준(방법)",
+   "UserID": "U00000017",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "대기오염 공정시험기준(방법)",
+   "UserID": "U00000018",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "대기오염 공정시험기준(방법)",
+   "UserID": "U00000019",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "대기오염 공정시험기준(방법)",
+   "UserID": "U00000020",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "대기환경관계법규",
+   "UserID": "U00000001",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "대기환경관계법규",
+   "UserID": "U00000002",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "대기환경관계법규",
+   "UserID": "U00000003",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "대기환경관계법규",
+   "UserID": "U00000004",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "대기환경관계법규",
+   "UserID": "U00000005",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "대기환경관계법규",
+   "UserID": "U00000006",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "대기환경관계법규",
+   "UserID": "U00000007",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "대기환경관계법규",
+   "UserID": "U00000008",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "대기환경관계법규",
+   "UserID": "U00000009",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "대기환경관계법규",
+   "UserID": "U00000010",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "대기환경관계법규",
+   "UserID": "U00000011",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "대기환경관계법규",
+   "UserID": "U00000012",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "대기환경관계법규",
+   "UserID": "U00000013",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "대기환경관계법규",
+   "UserID": "U00000014",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "대기환경관계법규",
+   "UserID": "U00000015",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "대기환경관계법규",
+   "UserID": "U00000016",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "대기환경관계법규",
+   "UserID": "U00000017",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "대기환경관계법규",
+   "UserID": "U00000018",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "대기환경관계법규",
+   "UserID": "U00000019",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "대기환경관계법규",
+   "UserID": "U00000020",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "안전관리론",
+   "UserID": "U00000001",
+   "WeakOrNot": 1
+ },
+ {
+   "ProblemTypeID": "안전관리론",
+   "UserID": "U00000002",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "안전관리론",
+   "UserID": "U00000003",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "안전관리론",
+   "UserID": "U00000004",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "안전관리론",
+   "UserID": "U00000005",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "안전관리론",
+   "UserID": "U00000006",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "안전관리론",
+   "UserID": "U00000007",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "안전관리론",
+   "UserID": "U00000008",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "안전관리론",
+   "UserID": "U00000009",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "안전관리론",
+   "UserID": "U00000010",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "안전관리론",
+   "UserID": "U00000011",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "안전관리론",
+   "UserID": "U00000012",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "안전관리론",
+   "UserID": "U00000013",
+   "WeakOrNot": 1
+ },
+ {
+   "ProblemTypeID": "안전관리론",
+   "UserID": "U00000014",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "안전관리론",
+   "UserID": "U00000015",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "안전관리론",
+   "UserID": "U00000016",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "안전관리론",
+   "UserID": "U00000017",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "안전관리론",
+   "UserID": "U00000018",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "안전관리론",
+   "UserID": "U00000019",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "안전관리론",
+   "UserID": "U00000020",
+   "WeakOrNot": 1
+ },
+ {
+   "ProblemTypeID": "인간공학 및 시스템안전공학",
+   "UserID": "U00000001",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "인간공학 및 시스템안전공학",
+   "UserID": "U00000002",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "인간공학 및 시스템안전공학",
+   "UserID": "U00000003",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "인간공학 및 시스템안전공학",
+   "UserID": "U00000004",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "인간공학 및 시스템안전공학",
+   "UserID": "U00000005",
+   "WeakOrNot": 1
+ },
+ {
+   "ProblemTypeID": "인간공학 및 시스템안전공학",
+   "UserID": "U00000006",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "인간공학 및 시스템안전공학",
+   "UserID": "U00000007",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "인간공학 및 시스템안전공학",
+   "UserID": "U00000008",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "인간공학 및 시스템안전공학",
+   "UserID": "U00000009",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "인간공학 및 시스템안전공학",
+   "UserID": "U00000010",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "인간공학 및 시스템안전공학",
+   "UserID": "U00000011",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "인간공학 및 시스템안전공학",
+   "UserID": "U00000012",
+   "WeakOrNot": 1
+ },
+ {
+   "ProblemTypeID": "인간공학 및 시스템안전공학",
+   "UserID": "U00000013",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "인간공학 및 시스템안전공학",
+   "UserID": "U00000014",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "인간공학 및 시스템안전공학",
+   "UserID": "U00000015",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "인간공학 및 시스템안전공학",
+   "UserID": "U00000016",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "인간공학 및 시스템안전공학",
+   "UserID": "U00000017",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "인간공학 및 시스템안전공학",
+   "UserID": "U00000018",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "인간공학 및 시스템안전공학",
+   "UserID": "U00000019",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "인간공학 및 시스템안전공학",
+   "UserID": "U00000020",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "기계위험방지기술",
+   "UserID": "U00000001",
+   "WeakOrNot": 1
+ },
+ {
+   "ProblemTypeID": "기계위험방지기술",
+   "UserID": "U00000002",
+   "WeakOrNot": 1
+ },
+ {
+   "ProblemTypeID": "기계위험방지기술",
+   "UserID": "U00000003",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "기계위험방지기술",
+   "UserID": "U00000004",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "기계위험방지기술",
+   "UserID": "U00000005",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "기계위험방지기술",
+   "UserID": "U00000006",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "기계위험방지기술",
+   "UserID": "U00000007",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "기계위험방지기술",
+   "UserID": "U00000008",
+   "WeakOrNot": 1
+ },
+ {
+   "ProblemTypeID": "기계위험방지기술",
+   "UserID": "U00000009",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "기계위험방지기술",
+   "UserID": "U00000010",
+   "WeakOrNot": 1
+ },
+ {
+   "ProblemTypeID": "기계위험방지기술",
+   "UserID": "U00000011",
+   "WeakOrNot": 1
+ },
+ {
+   "ProblemTypeID": "기계위험방지기술",
+   "UserID": "U00000012",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "기계위험방지기술",
+   "UserID": "U00000013",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "기계위험방지기술",
+   "UserID": "U00000014",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "기계위험방지기술",
+   "UserID": "U00000015",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "기계위험방지기술",
+   "UserID": "U00000016",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "기계위험방지기술",
+   "UserID": "U00000017",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "기계위험방지기술",
+   "UserID": "U00000018",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "기계위험방지기술",
+   "UserID": "U00000019",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "기계위험방지기술",
+   "UserID": "U00000020",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "전기위험방지기술",
+   "UserID": "U00000001",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "전기위험방지기술",
+   "UserID": "U00000002",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "전기위험방지기술",
+   "UserID": "U00000003",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "전기위험방지기술",
+   "UserID": "U00000004",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "전기위험방지기술",
+   "UserID": "U00000005",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "전기위험방지기술",
+   "UserID": "U00000006",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "전기위험방지기술",
+   "UserID": "U00000007",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "전기위험방지기술",
+   "UserID": "U00000008",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "전기위험방지기술",
+   "UserID": "U00000009",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "전기위험방지기술",
+   "UserID": "U00000010",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "전기위험방지기술",
+   "UserID": "U00000011",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "전기위험방지기술",
+   "UserID": "U00000012",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "전기위험방지기술",
+   "UserID": "U00000013",
+   "WeakOrNot": 1
+ },
+ {
+   "ProblemTypeID": "전기위험방지기술",
+   "UserID": "U00000014",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "전기위험방지기술",
+   "UserID": "U00000015",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "전기위험방지기술",
+   "UserID": "U00000016",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "전기위험방지기술",
+   "UserID": "U00000017",
+   "WeakOrNot": 1
+ },
+ {
+   "ProblemTypeID": "전기위험방지기술",
+   "UserID": "U00000018",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "전기위험방지기술",
+   "UserID": "U00000019",
+   "WeakOrNot": 1
+ },
+ {
+   "ProblemTypeID": "전기위험방지기술",
+   "UserID": "U00000020",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "화학설비위험방지기술",
+   "UserID": "U00000001",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "화학설비위험방지기술",
+   "UserID": "U00000002",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "화학설비위험방지기술",
+   "UserID": "U00000003",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "화학설비위험방지기술",
+   "UserID": "U00000004",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "화학설비위험방지기술",
+   "UserID": "U00000005",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "화학설비위험방지기술",
+   "UserID": "U00000006",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "화학설비위험방지기술",
+   "UserID": "U00000007",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "화학설비위험방지기술",
+   "UserID": "U00000008",
+   "WeakOrNot": 1
+ },
+ {
+   "ProblemTypeID": "화학설비위험방지기술",
+   "UserID": "U00000009",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "화학설비위험방지기술",
+   "UserID": "U00000010",
+   "WeakOrNot": 1
+ },
+ {
+   "ProblemTypeID": "화학설비위험방지기술",
+   "UserID": "U00000011",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "화학설비위험방지기술",
+   "UserID": "U00000012",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "화학설비위험방지기술",
+   "UserID": "U00000013",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "화학설비위험방지기술",
+   "UserID": "U00000014",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "화학설비위험방지기술",
+   "UserID": "U00000015",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "화학설비위험방지기술",
+   "UserID": "U00000016",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "화학설비위험방지기술",
+   "UserID": "U00000017",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "화학설비위험방지기술",
+   "UserID": "U00000018",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "화학설비위험방지기술",
+   "UserID": "U00000019",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "화학설비위험방지기술",
+   "UserID": "U00000020",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건설안전기술",
+   "UserID": "U00000001",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건설안전기술",
+   "UserID": "U00000002",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건설안전기술",
+   "UserID": "U00000003",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건설안전기술",
+   "UserID": "U00000004",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건설안전기술",
+   "UserID": "U00000005",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건설안전기술",
+   "UserID": "U00000006",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건설안전기술",
+   "UserID": "U00000007",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건설안전기술",
+   "UserID": "U00000008",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건설안전기술",
+   "UserID": "U00000009",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건설안전기술",
+   "UserID": "U00000010",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건설안전기술",
+   "UserID": "U00000011",
+   "WeakOrNot": 1
+ },
+ {
+   "ProblemTypeID": "건설안전기술",
+   "UserID": "U00000012",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건설안전기술",
+   "UserID": "U00000013",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건설안전기술",
+   "UserID": "U00000014",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건설안전기술",
+   "UserID": "U00000015",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건설안전기술",
+   "UserID": "U00000016",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건설안전기술",
+   "UserID": "U00000017",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건설안전기술",
+   "UserID": "U00000018",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건설안전기술",
+   "UserID": "U00000019",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "건설안전기술",
+   "UserID": "U00000020",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소방원론",
+   "UserID": "U00000001",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소방원론",
+   "UserID": "U00000002",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소방원론",
+   "UserID": "U00000003",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소방원론",
+   "UserID": "U00000004",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소방원론",
+   "UserID": "U00000005",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소방원론",
+   "UserID": "U00000006",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소방원론",
+   "UserID": "U00000007",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소방원론",
+   "UserID": "U00000008",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소방원론",
+   "UserID": "U00000009",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소방원론",
+   "UserID": "U00000010",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소방원론",
+   "UserID": "U00000011",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소방원론",
+   "UserID": "U00000012",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소방원론",
+   "UserID": "U00000013",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소방원론",
+   "UserID": "U00000014",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소방원론",
+   "UserID": "U00000015",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소방원론",
+   "UserID": "U00000016",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소방원론",
+   "UserID": "U00000017",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소방원론",
+   "UserID": "U00000018",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소방원론",
+   "UserID": "U00000019",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소방원론",
+   "UserID": "U00000020",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소방유체역학",
+   "UserID": "U00000001",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소방유체역학",
+   "UserID": "U00000002",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소방유체역학",
+   "UserID": "U00000003",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소방유체역학",
+   "UserID": "U00000004",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소방유체역학",
+   "UserID": "U00000005",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소방유체역학",
+   "UserID": "U00000006",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소방유체역학",
+   "UserID": "U00000007",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소방유체역학",
+   "UserID": "U00000008",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소방유체역학",
+   "UserID": "U00000009",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소방유체역학",
+   "UserID": "U00000010",
+   "WeakOrNot": 1
+ },
+ {
+   "ProblemTypeID": "소방유체역학",
+   "UserID": "U00000011",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소방유체역학",
+   "UserID": "U00000012",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소방유체역학",
+   "UserID": "U00000013",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소방유체역학",
+   "UserID": "U00000014",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소방유체역학",
+   "UserID": "U00000015",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소방유체역학",
+   "UserID": "U00000016",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소방유체역학",
+   "UserID": "U00000017",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소방유체역학",
+   "UserID": "U00000018",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소방유체역학",
+   "UserID": "U00000019",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소방유체역학",
+   "UserID": "U00000020",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소방관계법규",
+   "UserID": "U00000001",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소방관계법규",
+   "UserID": "U00000002",
+   "WeakOrNot": 1
+ },
+ {
+   "ProblemTypeID": "소방관계법규",
+   "UserID": "U00000003",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소방관계법규",
+   "UserID": "U00000004",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소방관계법규",
+   "UserID": "U00000005",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소방관계법규",
+   "UserID": "U00000006",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소방관계법규",
+   "UserID": "U00000007",
+   "WeakOrNot": 1
+ },
+ {
+   "ProblemTypeID": "소방관계법규",
+   "UserID": "U00000008",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소방관계법규",
+   "UserID": "U00000009",
+   "WeakOrNot": 1
+ },
+ {
+   "ProblemTypeID": "소방관계법규",
+   "UserID": "U00000010",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소방관계법규",
+   "UserID": "U00000011",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소방관계법규",
+   "UserID": "U00000012",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소방관계법규",
+   "UserID": "U00000013",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소방관계법규",
+   "UserID": "U00000014",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소방관계법규",
+   "UserID": "U00000015",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소방관계법규",
+   "UserID": "U00000016",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소방관계법규",
+   "UserID": "U00000017",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소방관계법규",
+   "UserID": "U00000018",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소방관계법규",
+   "UserID": "U00000019",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소방관계법규",
+   "UserID": "U00000020",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소방기계시설의 구조 및 원리",
+   "UserID": "U00000001",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소방기계시설의 구조 및 원리",
+   "UserID": "U00000002",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소방기계시설의 구조 및 원리",
+   "UserID": "U00000003",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소방기계시설의 구조 및 원리",
+   "UserID": "U00000004",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소방기계시설의 구조 및 원리",
+   "UserID": "U00000005",
+   "WeakOrNot": 1
+ },
+ {
+   "ProblemTypeID": "소방기계시설의 구조 및 원리",
+   "UserID": "U00000006",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소방기계시설의 구조 및 원리",
+   "UserID": "U00000007",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소방기계시설의 구조 및 원리",
+   "UserID": "U00000008",
+   "WeakOrNot": 1
+ },
+ {
+   "ProblemTypeID": "소방기계시설의 구조 및 원리",
+   "UserID": "U00000009",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소방기계시설의 구조 및 원리",
+   "UserID": "U00000010",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소방기계시설의 구조 및 원리",
+   "UserID": "U00000011",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소방기계시설의 구조 및 원리",
+   "UserID": "U00000012",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소방기계시설의 구조 및 원리",
+   "UserID": "U00000013",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소방기계시설의 구조 및 원리",
+   "UserID": "U00000014",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소방기계시설의 구조 및 원리",
+   "UserID": "U00000015",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소방기계시설의 구조 및 원리",
+   "UserID": "U00000016",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소방기계시설의 구조 및 원리",
+   "UserID": "U00000017",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소방기계시설의 구조 및 원리",
+   "UserID": "U00000018",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소방기계시설의 구조 및 원리",
+   "UserID": "U00000019",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소방기계시설의 구조 및 원리",
+   "UserID": "U00000020",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소프트웨어 설계",
+   "UserID": "U00000001",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소프트웨어 설계",
+   "UserID": "U00000002",
+   "WeakOrNot": 1
+ },
+ {
+   "ProblemTypeID": "소프트웨어 설계",
+   "UserID": "U00000003",
+   "WeakOrNot": 1
+ },
+ {
+   "ProblemTypeID": "소프트웨어 설계",
+   "UserID": "U00000004",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소프트웨어 설계",
+   "UserID": "U00000005",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소프트웨어 설계",
+   "UserID": "U00000006",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소프트웨어 설계",
+   "UserID": "U00000007",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소프트웨어 설계",
+   "UserID": "U00000008",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소프트웨어 설계",
+   "UserID": "U00000009",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소프트웨어 설계",
+   "UserID": "U00000010",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소프트웨어 설계",
+   "UserID": "U00000011",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소프트웨어 설계",
+   "UserID": "U00000012",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소프트웨어 설계",
+   "UserID": "U00000013",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소프트웨어 설계",
+   "UserID": "U00000014",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소프트웨어 설계",
+   "UserID": "U00000015",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소프트웨어 설계",
+   "UserID": "U00000016",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소프트웨어 설계",
+   "UserID": "U00000017",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소프트웨어 설계",
+   "UserID": "U00000018",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소프트웨어 설계",
+   "UserID": "U00000019",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소프트웨어 설계",
+   "UserID": "U00000020",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소프트웨어 개발",
+   "UserID": "U00000001",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소프트웨어 개발",
+   "UserID": "U00000002",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소프트웨어 개발",
+   "UserID": "U00000003",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소프트웨어 개발",
+   "UserID": "U00000004",
+   "WeakOrNot": 1
+ },
+ {
+   "ProblemTypeID": "소프트웨어 개발",
+   "UserID": "U00000005",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소프트웨어 개발",
+   "UserID": "U00000006",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소프트웨어 개발",
+   "UserID": "U00000007",
+   "WeakOrNot": 1
+ },
+ {
+   "ProblemTypeID": "소프트웨어 개발",
+   "UserID": "U00000008",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소프트웨어 개발",
+   "UserID": "U00000009",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소프트웨어 개발",
+   "UserID": "U00000010",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소프트웨어 개발",
+   "UserID": "U00000011",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소프트웨어 개발",
+   "UserID": "U00000012",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소프트웨어 개발",
+   "UserID": "U00000013",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소프트웨어 개발",
+   "UserID": "U00000014",
+   "WeakOrNot": 1
+ },
+ {
+   "ProblemTypeID": "소프트웨어 개발",
+   "UserID": "U00000015",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소프트웨어 개발",
+   "UserID": "U00000016",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소프트웨어 개발",
+   "UserID": "U00000017",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소프트웨어 개발",
+   "UserID": "U00000018",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소프트웨어 개발",
+   "UserID": "U00000019",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "소프트웨어 개발",
+   "UserID": "U00000020",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "데이터베이스 구축",
+   "UserID": "U00000001",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "데이터베이스 구축",
+   "UserID": "U00000002",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "데이터베이스 구축",
+   "UserID": "U00000003",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "데이터베이스 구축",
+   "UserID": "U00000004",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "데이터베이스 구축",
+   "UserID": "U00000005",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "데이터베이스 구축",
+   "UserID": "U00000006",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "데이터베이스 구축",
+   "UserID": "U00000007",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "데이터베이스 구축",
+   "UserID": "U00000008",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "데이터베이스 구축",
+   "UserID": "U00000009",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "데이터베이스 구축",
+   "UserID": "U00000010",
+   "WeakOrNot": 1
+ },
+ {
+   "ProblemTypeID": "데이터베이스 구축",
+   "UserID": "U00000011",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "데이터베이스 구축",
+   "UserID": "U00000012",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "데이터베이스 구축",
+   "UserID": "U00000013",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "데이터베이스 구축",
+   "UserID": "U00000014",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "데이터베이스 구축",
+   "UserID": "U00000015",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "데이터베이스 구축",
+   "UserID": "U00000016",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "데이터베이스 구축",
+   "UserID": "U00000017",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "데이터베이스 구축",
+   "UserID": "U00000018",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "데이터베이스 구축",
+   "UserID": "U00000019",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "데이터베이스 구축",
+   "UserID": "U00000020",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "프로그래밍 언어 활용",
+   "UserID": "U00000001",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "프로그래밍 언어 활용",
+   "UserID": "U00000002",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "프로그래밍 언어 활용",
+   "UserID": "U00000003",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "프로그래밍 언어 활용",
+   "UserID": "U00000004",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "프로그래밍 언어 활용",
+   "UserID": "U00000005",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "프로그래밍 언어 활용",
+   "UserID": "U00000006",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "프로그래밍 언어 활용",
+   "UserID": "U00000007",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "프로그래밍 언어 활용",
+   "UserID": "U00000008",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "프로그래밍 언어 활용",
+   "UserID": "U00000009",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "프로그래밍 언어 활용",
+   "UserID": "U00000010",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "프로그래밍 언어 활용",
+   "UserID": "U00000011",
+   "WeakOrNot": 1
+ },
+ {
+   "ProblemTypeID": "프로그래밍 언어 활용",
+   "UserID": "U00000012",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "프로그래밍 언어 활용",
+   "UserID": "U00000013",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "프로그래밍 언어 활용",
+   "UserID": "U00000014",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "프로그래밍 언어 활용",
+   "UserID": "U00000015",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "프로그래밍 언어 활용",
+   "UserID": "U00000016",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "프로그래밍 언어 활용",
+   "UserID": "U00000017",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "프로그래밍 언어 활용",
+   "UserID": "U00000018",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "프로그래밍 언어 활용",
+   "UserID": "U00000019",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "프로그래밍 언어 활용",
+   "UserID": "U00000020",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "정보시스템 구축관리",
+   "UserID": "U00000001",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "정보시스템 구축관리",
+   "UserID": "U00000002",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "정보시스템 구축관리",
+   "UserID": "U00000003",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "정보시스템 구축관리",
+   "UserID": "U00000004",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "정보시스템 구축관리",
+   "UserID": "U00000005",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "정보시스템 구축관리",
+   "UserID": "U00000006",
+   "WeakOrNot": 1
+ },
+ {
+   "ProblemTypeID": "정보시스템 구축관리",
+   "UserID": "U00000007",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "정보시스템 구축관리",
+   "UserID": "U00000008",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "정보시스템 구축관리",
+   "UserID": "U00000009",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "정보시스템 구축관리",
+   "UserID": "U00000010",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "정보시스템 구축관리",
+   "UserID": "U00000011",
+   "WeakOrNot": 1
+ },
+ {
+   "ProblemTypeID": "정보시스템 구축관리",
+   "UserID": "U00000012",
+   "WeakOrNot": 1
+ },
+ {
+   "ProblemTypeID": "정보시스템 구축관리",
+   "UserID": "U00000013",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "정보시스템 구축관리",
+   "UserID": "U00000014",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "정보시스템 구축관리",
+   "UserID": "U00000015",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "정보시스템 구축관리",
+   "UserID": "U00000016",
+   "WeakOrNot": 1
+ },
+ {
+   "ProblemTypeID": "정보시스템 구축관리",
+   "UserID": "U00000017",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "정보시스템 구축관리",
+   "UserID": "U00000018",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "정보시스템 구축관리",
+   "UserID": "U00000019",
+   "WeakOrNot": 0
+ },
+ {
+   "ProblemTypeID": "정보시스템 구축관리",
+   "UserID": "U00000020",
+   "WeakOrNot": 0
+ }
+]

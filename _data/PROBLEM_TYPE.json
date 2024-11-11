@@ -1,0 +1,102 @@
+[
+ {
+   "ProblemTypeID": "건축계획",
+   "TestDomainID": "TD0001"
+ },
+ {
+   "ProblemTypeID": "건축시공",
+   "TestDomainID": "TD0001"
+ },
+ {
+   "ProblemTypeID": "건축설비",
+   "TestDomainID": "TD0001"
+ },
+ {
+   "ProblemTypeID": "건축법규",
+   "TestDomainID": "TD0001"
+ },
+ {
+   "ProblemTypeID": "건축구조",
+   "TestDomainID": "TD0001"
+ },
+ {
+   "ProblemTypeID": "대기오염 개론",
+   "TestDomainID": "TD0002"
+ },
+ {
+   "ProblemTypeID": "연소공학",
+   "TestDomainID": "TD0002"
+ },
+ {
+   "ProblemTypeID": "대기오염 방지기술",
+   "TestDomainID": "TD0002"
+ },
+ {
+   "ProblemTypeID": "대기오염 공정시험기준(방법)",
+   "TestDomainID": "TD0002"
+ },
+ {
+   "ProblemTypeID": "대기환경관계법규",
+   "TestDomainID": "TD0002"
+ },
+ {
+   "ProblemTypeID": "안전관리론",
+   "TestDomainID": "TD0003"
+ },
+ {
+   "ProblemTypeID": "인간공학 및 시스템안전공학",
+   "TestDomainID": "TD0003"
+ },
+ {
+   "ProblemTypeID": "기계위험방지기술",
+   "TestDomainID": "TD0003"
+ },
+ {
+   "ProblemTypeID": "전기위험방지기술",
+   "TestDomainID": "TD0003"
+ },
+ {
+   "ProblemTypeID": "화학설비위험방지기술",
+   "TestDomainID": "TD0003"
+ },
+ {
+   "ProblemTypeID": "건설안전기술",
+   "TestDomainID": "TD0003"
+ },
+ {
+   "ProblemTypeID": "소방원론",
+   "TestDomainID": "TD0004"
+ },
+ {
+   "ProblemTypeID": "소방유체역학",
+   "TestDomainID": "TD0004"
+ },
+ {
+   "ProblemTypeID": "소방관계법규",
+   "TestDomainID": "TD0004"
+ },
+ {
+   "ProblemTypeID": "소방기계시설의 구조 및 원리",
+   "TestDomainID": "TD0004"
+ },
+ {
+   "ProblemTypeID": "소프트웨어 설계",
+   "TestDomainID": "TD0005"
+ },
+ {
+   "ProblemTypeID": "소프트웨어 개발",
+   "TestDomainID": "TD0005"
+ },
+ {
+   "ProblemTypeID": "데이터베이스 구축",
+   "TestDomainID": "TD0005"
+ },
+ {
+   "ProblemTypeID": "프로그래밍 언어 활용",
+   "TestDomainID": "TD0005"
+ },
+ {
+   "ProblemTypeID": "정보시스템 구축관리",
+   "TestDomainID": "TD0005"
+ }
+]
